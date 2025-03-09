@@ -60,5 +60,3 @@ The goal of this project is to enhance AtliQ Hardwares’ financial and supply c
 | `get_fiscal_year`   | Returns the fiscal year for a given date. |
 | `get_fiscal_quarter`| Determines the fiscal quarter based on the provided date. |
 
-## Conclusion
-This project empowers AtliQ Hardwares with data-driven insights for better financial and supply chain management. The structured database, optimized queries, and analytical tools ensure efficient decision-making and business growth.
