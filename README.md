@@ -1,5 +1,15 @@
 # Finance & Supply Chain Analytics for AtliQ Hardwares
 
+## Technologies Used
+- **Database:** MySQL  
+- **SQL Features:** Views, Stored Procedures, Functions  
+- **Data Processing:** Aggregations, Joins, Subqueries  
+- **Optimization Techniques:** Indexing, Query Optimization  
+- **Reporting & Analytics:** SQL-based reporting using Views and Stored Procedures  
+
+## Database Overview
+The database `gdb0041` consists of **12 tables** with a total of **19+ lakh (1.9 million) rows of data**. It includes dimensional data (customer, product, and date references) and fact tables (sales, pricing, cost, and deductions) to provide deep insights into financial and supply chain operations. 
+
 ## Project Overview
 This project provides a comprehensive analysis of financial and supply chain data for AtliQ Hardwares. The database is designed to optimize business intelligence by tracking sales, pricing, manufacturing costs, and forecasting accuracy. The use of views, stored procedures, and functions allows efficient data retrieval and decision-making.
 
